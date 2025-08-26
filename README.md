@@ -19,6 +19,7 @@
 
 > Describe the core gameplay loop.
 - What is the player doing most of the time?
+- Game is played in phases where the initial phase establishes a network of processed resources that are required to the second phase where these resources are to be ferried across space.
 - How does progression work?
 - What are the key actions/inputs?
 
@@ -108,17 +109,6 @@ _Add or remove tools as necessary._
 | Beta        | Polished content, testing                | YYYY-MM-DD     |
 | Release     | Final polish, launch                     | YYYY-MM-DD     |
 
-/Assets
-/Art
-/Audio
-/Scripts
-/Scenes
-/UI
-/Docs
-README.md
-GDD.md
-
-
 ---
 
 ## 📝 Notes / Misc
@@ -133,7 +123,15 @@ GDD.md
 ## 📜 License
 
 _Choose your license (e.g., MIT, proprietary, TBD)._
-
+    /Assets
+    /Art
+    /Audio
+    /Scripts
+    /Scenes
+    /UI
+    /Docs
+    README.md
+    GDD.md
 ---
 ---
 
